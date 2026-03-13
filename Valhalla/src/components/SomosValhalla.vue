@@ -4,7 +4,7 @@
         <p class="text-xs text-white lg:w-[173px] mb-4
         tracking-[4.5px] lg:h-[24px] lg:pt-[80px]
         lg:pl-[167px] border border-red-600">
-        Somos Valhalla®
+        Somos Valhalla j ®
         </p>    
     </div>
 </template>
