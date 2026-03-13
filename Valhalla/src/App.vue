@@ -1,7 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue'
+import SomosValhalla from './components/SomosValhalla.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <Header />
+  <SomosValhalla />
 </template>
