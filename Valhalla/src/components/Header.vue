@@ -18,8 +18,8 @@
     </div>
 
     <!--Hero -->
-    <div class="lg:w-[1015px] mx-auto font-bold">
-        <p class="mb-6 text-xs tracking-[4.5px] ">INNOVATION FOR OPEN COMPANIES</p>
+    <div class="lg:w-[1015px] mx-auto font-bold lg:mb-[200px]">
+        <p class="mb-6 text-xs tracking-[4.5px]">INNOVATION FOR OPEN COMPANIES</p>
         <p class="text-7xl relative">Descubre el emprendedor
             <span class="bg-[#5FD0E5] absolute -z-10
            lg:w-[455px] lg:h-[36px] lg:bottom-[62px] lg:left-[400px]"></span>
